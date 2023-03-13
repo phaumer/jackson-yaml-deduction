@@ -1,0 +1,1 @@
+{"name":"doc1","profiles":[{"name":"profile1","type":"type1","settings":{"application":"sam","command":"test"}},{"name":"profile2","type":"type2","settings":{"mappings":"map1"}}]}
